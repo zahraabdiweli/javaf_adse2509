@@ -1,4 +1,4 @@
-package src.com.adse2509.util;
+package util;
 
 /**
  *  Provides a utility method for displaying visual separators in console output.
